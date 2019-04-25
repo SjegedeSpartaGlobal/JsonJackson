@@ -1,4 +1,4 @@
-package com.sparta.sj;
+package com.sparta.JSON.Jackson;
 
 import static org.junit.Assert.assertTrue;
 
